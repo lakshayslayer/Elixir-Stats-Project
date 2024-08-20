@@ -1,21 +1,13 @@
-# Stats
+# Project Statistics - Functional Programming With Elixir
 
-**TODO: Add description**
+Help Louis take better business decisions by creating a Statistics library.
 
-## Installation
+## Sequence
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `stats` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:stats, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/stats>.
-
+1. Central Tendency -
+   1. Mean
+   2. Median
+   3. Mode
+2. Variability -
+   1. Variance
+   2. Standard Deviation
